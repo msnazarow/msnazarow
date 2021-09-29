@@ -1,18 +1,11 @@
 ## <div align="center">Hello world, I'm Michael Nazarov</div>  
-  
 
 ### <div align="center"> I've been a Math 📐, Physics ⚛️ and Computer science 🖥️ teacher for a 10 years and
 </div>  
-  
 
 ### <div align="center">Nowadays I work as Software Developer 💻</div>  
   
-
-- 🔭 I’m currently programming in  [Swift](https://github.com/msnazarow-Swift)  
-  
-
-<br/>  
-
+#### <div align="center">🔭 I’m currently programming in  [Swift](https://github.com/msnazarow-Swift)  
 
 ## My Skill Set  
 <div align="center">  
@@ -33,15 +26,11 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="75" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="75" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="75" />  
-
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="75" />  
 </div>  
 
-<br/>  
-
 ## My Repositories
-
-<div align="center">
+<div align="left">
 <a href="https://github.com/msnazarow-c/" target="_blank">
 <img src=https://img.shields.io/badge/c-%2324292e.svg?&style=for-the-badge&logo=clang&logoColor=white alt=c style="margin-bottom: 5px;" />
 </a>
@@ -88,14 +77,13 @@
 <img src="https://komarev.com/ghpvc/?username=msnazarow&&style=flat-square" align="center" />
 </div>  
   
-
-<br/>  
+### Donation
 
 <div align="center">
             <a href="https://paypal.me/msnazarow" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square" 
-                    align="center"
+                    align="left"
                 />
             </a></div>
 <br />
