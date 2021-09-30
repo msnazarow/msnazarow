@@ -86,4 +86,11 @@
                     width= auto height= 40
                 />
             </a></div>
+            <a href="https://www.buymeacoffee.com/msnazarow" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
+                    align="center"
+                    width= auto height= 40
+                />
+            </a></div>
 <br />
