@@ -79,10 +79,11 @@
 ### Donation
 
 <div align="center">
-            <a href="https://paypal.me/msnazarow" target="_blank" style="display: inline-block;">
+            <a href="https://paypal.me/mihailnazar" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square" 
                     align="left"
+                    width= auto height= 40
                 />
             </a></div>
 <br />
