@@ -19,7 +19,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="75" />  
 </a>
 <a href="https://github.com/msnazarow-swift" target="_blank">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/swift-original-wordmark.svg" alt="Swift" height="75" />  
+<img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/732/732250.png" alt="Swift" height="75" />  
 </a>
 <a href='https://github.com/msnazarow-python' target="_blank">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="75" />  
@@ -29,7 +29,7 @@
 </a>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="75" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="75" />  
+<img style="margin: 10px" src="https://bashlogo.com/img/symbol/png/monochrome_light.png" alt="Bash" height="75" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="75" />  
 </div>  
 
