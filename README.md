@@ -71,7 +71,9 @@
 <br/>
   
 ## Donation
-<a href=https://www.patreon.com/MichaelNazarov>MichaelNazarov</a>
+<a href=https://www.patreon.com/MichaelNazarov>
+<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Patreon_logo.svg/1082px-Patreon_logo.svg.png height=50 width=50>
+MichaelNazarov</a>
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=msnazarow&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
